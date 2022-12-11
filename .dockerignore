@@ -1,0 +1,8 @@
+*
+!payment_gateway
+!payment_info
+!users
+!manage.py
+!requirements.txt
+!nginx
+!entrypoint.sh
